@@ -82,8 +82,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'Form',
-        'USER': 'arpit',
-        'PASSWORD': 'arpitarpit',
+        'USER': 'MDP',
+        'PASSWORD': 'Pras@9876',
         'HOST': 'localhost',
         'PORT': '',
     }
@@ -115,7 +115,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE =  'Asia/Kolkata'
+TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
 
